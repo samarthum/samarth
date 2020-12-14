@@ -338,8 +338,10 @@
   }
 
   .about-song {
-    text-align: center;
-  }
+      text-align: center;
+      line-height: 1.1;
+      font-weight: 300;
+    }
 
   .song-title-container {
     padding: 3% 5%;
