@@ -309,7 +309,7 @@
 /* For Phone */
 @media (max-width: 576px) {
   .container-fluid {
-    padding: 2% 5%;
+    padding: 2% 2%;
   }
 
   .navbar-brand {
